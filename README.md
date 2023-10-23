@@ -2,7 +2,15 @@
                     
 <h1 align="center"> :wave: Olá, pode me chamar de Rai!</h1>
 
-Bacharelando em Sistemas de Informação da Universidade Estadual do Sudoeste da Bahia.
+<h3 align="center">Um Pouco Sobre Mim</h3>
+
+\- :books: Bacharelando em Sistemas de Informação da Universidade Estadual do Sudoeste da Bahia;
+
+\- :computer: Focado em Backend e Desktop;
+
+\- :skull: Principais habilidades incluem PHP e Java;
+
+\- :eyes: Estudando DevOps.
 
 ---
 
@@ -48,4 +56,5 @@ Bacharelando em Sistemas de Informação da Universidade Estadual do Sudoeste da
 <a href="https://www.linkedin.com/in/raimundo-santana-novaes-filho-8a2915165/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=000000&color=FFFFFF"></a>
 <a href="mailto:raimundo.s.novaes.f@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=000000&color=FFFFFF"></a>
 <a href="https://www.duolingo.com/profile/RAYRADIUM"><img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=000000&color=FFFFFF"></a>
+<a href="https://www.duolingo.com/profile/RAYRADIUM"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=000000&color=FFFFFF"></a>
 </div>
