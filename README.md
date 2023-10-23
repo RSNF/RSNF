@@ -16,6 +16,8 @@ Bacharelando em Sistemas de Informação da Universidade Estadual do Sudoeste da
 
 <h3 align="center">Minhas Skills</h3>
 
+</br>
+
 <div align="center">
 <img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-plain.svg"/>
 <img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg"/>
@@ -33,6 +35,8 @@ Bacharelando em Sistemas de Informação da Universidade Estadual do Sudoeste da
 <img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
 <img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
 </div>
+
+</br>
 
 ---
 
