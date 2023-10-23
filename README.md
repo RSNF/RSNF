@@ -42,6 +42,8 @@
 <img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/>
 <img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"/>
 <img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
+<img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-line.svg"/>
+<img height="96" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg"/>
 </div>
 
 </br>
