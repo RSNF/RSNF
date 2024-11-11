@@ -4,13 +4,11 @@
 
 <h3 align="center">Um Pouco Sobre Mim</h3>
 
-\- :books: Bacharelando em Sistemas de Informação da Universidade Estadual do Sudoeste da Bahia;
+\- :books: Bacharel em Sistemas de Informação da Universidade Estadual do Sudoeste da Bahia;
 
-\- :computer: Focado em Backend e Desktop;
+\- :computer: Focado em Backend;
 
-\- :skull: Principais habilidades incluem PHP e Java;
-
-\- :eyes: Estudando DevOps.
+\- :skull: Principais habilidades incluem PHP e Node.js;
 
 ---
 
