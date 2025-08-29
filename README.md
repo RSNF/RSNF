@@ -20,6 +20,13 @@
 
 ---
 
+<div align="center">
+<img height="123" src="./profile-summary-card-output/shades_of_purple/4-productive-time.svg">
+<img height="123" src="./profile-summary-card-output/shades_of_purple/0-profile-details.svg">
+</div>
+
+---
+
 <h3 align="center">Minhas Skills</h3>
 
 </br>
