@@ -20,9 +20,11 @@
 
 ---
 
-<div align="center">
-<img height="123" src="./profile-summary-card-output/shades_of_purple/4-productive-time.svg">
-<img height="123" src="./profile-summary-card-output/shades_of_purple/0-profile-details.svg">
+<div>
+
+![Commits](./profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+![Details](./profile-summary-card-output/shades_of_purple/0-profile-details.svg)
+
 </div>
 
 ---
