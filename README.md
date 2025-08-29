@@ -14,7 +14,7 @@
 
 <div align="center">
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=RSNF&theme=dracula&locale=pt-br&layout=pie&hide_border=true)
+![Contribs](./profile-3d-contrib/profile-night-view.svg)
 
 </div>
 
