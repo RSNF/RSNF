@@ -21,8 +21,8 @@
 ---
 
 <div align="center">
-<img height="128" src="./profile-summary-card-output/shades_of_purple/4-productive-time.svg">
-<img height="128" src="./profile-summary-card-output/shades_of_purple/0-profile-details.svg">
+<img height="192" src="./profile-summary-card-output/shades_of_purple/4-productive-time.svg">
+<img height="192" src="./profile-summary-card-output/shades_of_purple/0-profile-details.svg">
 </div>
 
 ---
