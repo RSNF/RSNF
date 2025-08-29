@@ -5,18 +5,18 @@ on:
     - cron: "0 18 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
-    permissions:
-      contents: write
-
     steps:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env: # default use ${{ secrets.SUMMARY_GITHUB_TOKEN }}, you should replace with your personal access token
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           # BRANCH_NAME is optional, default to main, branch name to push cards
