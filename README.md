@@ -20,9 +20,10 @@
 
 ---
 
-<div>
+<div class="grid" markdown>
 
 ![Commits](./profile-summary-card-output/shades_of_purple/4-productive-time.svg)
+
 ![Details](./profile-summary-card-output/shades_of_purple/0-profile-details.svg)
 
 </div>
